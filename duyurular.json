@@ -1,3 +1,10 @@
 {
-  "duyurular": []
+  "duyurular": [
+    {
+      "id": "20261029015721",
+      "baslik": "test",
+      "metin": "sadasd",
+      "tarih": "29.10.2026"
+    }
+  ]
 }
