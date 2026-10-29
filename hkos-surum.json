@@ -1,12 +1,12 @@
 {
   "urun": "hkos-launcher",
   "paket": "com.hkos.home",
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "minSdk": 26,
-  "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/v1.2/HkOs-1.2.apk",
-  "boyut": 157167,
-  "sha256": "be471bd5fdc16ac418ae763c7c0c0da0d3d982ecbe17b748075a6c47efce4cc9",
-  "notlar": "C:\\cytv\\hkos-builds\\HkOs-1.2.apk",
+  "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/v1.3/HkOs-1.3.apk",
+  "boyut": 232571,
+  "sha256": "62eabe0cad09f97d6228463fc1e810a31363b226c67bf25443a9864108b89c77",
+  "notlar": "C:\\cytv\\hkos-builds\\HkOs-1.3.apk",
   "tarih": "2026-10-29"
 }
