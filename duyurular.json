@@ -1,6 +1,12 @@
 {
   "duyurular": [
     {
+      "id": "20261029022208",
+      "baslik": "Merhaba",
+      "metin": "Merhaba kanka bu test duyurusudur",
+      "tarih": "29.10.2026"
+    },
+    {
       "id": "20261029020242",
       "baslik": "Test duyuru",
       "metin": "bu bir test duyurusudur",
