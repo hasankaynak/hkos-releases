@@ -1,3 +1,11 @@
 {
-  "duyurular": []
+  "duyurular": [
+    {
+      "id": "20261029023355",
+      "baslik": "test",
+      "metin": "test",
+      "tarih": "29.10.2026",
+      "aktif": true
+    }
+  ]
 }
