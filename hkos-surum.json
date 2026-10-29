@@ -1,12 +1,12 @@
 {
   "urun": "hkos-launcher",
   "paket": "com.hkos.home",
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "minSdk": 26,
-  "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/v1.5/HkOs-1.5.apk",
-  "boyut": 271519,
-  "sha256": "fdef65d9542bd935835a95fed1f66ee408daf2acc0dd5d40471ca2a9f02bd128",
-  "notlar": "HkOs 1.5: Yeni Monogram Logo, Cihaz Teşhisi, Home Assistant Entegrasyonu, Çoklu Yapay Zeka (Gemini, Claude, GPT, NVIDIA), Masaüstü ve iOS Siri Desteği",
+  "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/v1.6/HkOs-1.6.apk",
+  "boyut": 367995,
+  "sha256": "c85aa8be67dc8a709d07363ad1ca3f7769e83c4da931ea68afe165b5c3628a2d",
+  "notlar": "HkOs 1.6: Yeni Grafik Logo Entegrasyonu, Ayarlar Tasarim Tasmalari Giderildi, Yerel Ses ve Goruntu Profilleri (Eski Menuler Kaldirildi), Bluetooth Baslatma ve USB Dongle Algilama",
   "tarih": "2026-10-29"
 }
