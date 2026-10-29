@@ -1,12 +1,12 @@
 {
   "urun": "hkos-launcher",
   "paket": "com.hkos.home",
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "minSdk": 26,
-  "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/v1.6/HkOs-1.6.apk",
-  "boyut": 367995,
-  "sha256": "c85aa8be67dc8a709d07363ad1ca3f7769e83c4da931ea68afe165b5c3628a2d",
-  "notlar": "HkOs 1.6: Yeni Grafik Logo Entegrasyonu, Ayarlar Tasarim Tasmalari Giderildi, Yerel Ses ve Goruntu Profilleri (Eski Menuler Kaldirildi), Bluetooth Baslatma ve USB Dongle Algilama",
+  "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/v1.7/HkOs-1.7.apk",
+  "boyut": 414463,
+  "sha256": "6a20ac3d34e391f17f3e46f7cc65edfddd1a44de40c46f6ca749cc829630195c",
+  "notlar": "HkOs v1.7: Bluetooth menu ve yonlendirme duzeltmesi, USB depolama algilama, Dinamik Ambient Mode ekran koruyucu.",
   "tarih": "2026-10-29"
 }
