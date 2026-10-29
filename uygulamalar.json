@@ -1,0 +1,30 @@
+{
+  "sema": 1,
+  "sira": 1,
+  "uygulamalar": [
+    {
+      "paket": "com.hkos.media",
+      "ad": "HkMedia",
+      "aciklama": "HkOs 4K/HDR video, müzik, fotoğraf ve yerel ağ medya oynatıcısı",
+      "zorunlu": true,
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minSdk": 26,
+      "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/apps-v1/HkMedia-1.0.0.apk",
+      "boyut": 132460,
+      "sha256": "902a413dbb1c05ef5a9f800c0188da863da78cb3ccc20dbacf356a8676744726"
+    },
+    {
+      "paket": "com.hkos.browser",
+      "ad": "HkBrowser",
+      "aciklama": "HkOs sanal imleçli, reklam engelleyicili TV web tarayıcısı",
+      "zorunlu": true,
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "minSdk": 26,
+      "apk": "https://github.com/hasankaynak/hkos-releases/releases/download/apps-v1/HkBrowser-1.0.0.apk",
+      "boyut": 127248,
+      "sha256": "aa205a2946d81383a2009e1db3d76877e67fe2ace53efa61762ac55e15551b6a"
+    }
+  ]
+}
